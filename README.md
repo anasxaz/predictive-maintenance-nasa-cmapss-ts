@@ -53,9 +53,9 @@ Projet_Time_Series/
 ├── dashboard/            # Streamlit web app
 │   ├── app.py            # Home page (entry point)
 │   └── pages/
-│       ├── 2_🔧_Prediction.py
-│       ├── 3_📊_Comparaison.py
-│       └── 4_🚨_Anomalies.py
+│       ├── 2_Prediction.py
+│       ├── 3_Comparaison.py
+│       └── 4_Anomalies.py
 ├── predict.py            # Model-loading & prediction module
 ├── translations.py       # EN/FR translation dictionary
 ├── notebook.ipynb        # Full analysis (EDA → ML → DL → anomaly)
