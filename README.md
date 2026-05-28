@@ -116,7 +116,7 @@ The app opens automatically at `http://localhost:8501`.
 
 ---
 
-## 👥 For My Teammate (How to Use This Project)
+## 👥 How to Use This Project
 
 This section explains exactly what to do depending on what you want.
 
